@@ -10,4 +10,4 @@ git checkout newbranchname
 git branch --delete branchname
 git checkout main
 git merge newbranchname
-git 
+git push -u origin main
