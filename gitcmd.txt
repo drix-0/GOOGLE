@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "message"
+git status 
+git log 
+git remote add origin http://github.com/.....
+git push -u origin main 
+git branch newbranchname
+git checkout newbranchname
+git branch --delete branchname
+git checkout main
+git merge newbranchname
+git 
